@@ -2,7 +2,7 @@
 
 > 致力于记录与维护 Internet Archive 托管项目的在线镜像及备份代码仓库。
 <br/>
-<mark>@黑雨D</mark>
+<mark>由 @黑雨D 进行代码备份托管工作</mark>
 <br/>
 
 ## 备份项目列表
