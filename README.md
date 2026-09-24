@@ -7,6 +7,8 @@
 
 ## 备份项目列表
 
+| Name | 名称 | 网页代码压缩包 |
+| :---: | :---: | :---: |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
 | Arx Fatalis | 地城英雄志 |[网页代码压缩包](https://archive.org/download/arx-fatalis_202606/) |
 | Balatro | 小丑牌 |[网页代码压缩包](https://archive.org/download/balatro-web/) |
