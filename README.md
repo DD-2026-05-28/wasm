@@ -5,6 +5,12 @@
 <mark>由 @黑雨D 进行代码备份托管工作</mark>
 <br/>
 
+# 项目完成情况
+
+- **已完成项目数量**：52
+- **未完成项目数量**：1
+- **完成度**：98.08%
+
 ## 备份项目列表
 
 | Name | 名称 | 网页代码压缩包 |
@@ -57,8 +63,9 @@
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
-| The Simpsons Hit & Run | 辛普森：横冲直撞 |待我上传 |
+| The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
 | Wipeout | 反重力赛车 |[网页代码压缩包](https://github.com/phoboslab/wipeout-rewrite/) |
 | World of Warcraft | 魔兽世界 |待我上传 |
+
 
