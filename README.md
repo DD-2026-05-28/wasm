@@ -30,11 +30,11 @@
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Heroes of Might and Magic 3 | 魔法门之英雄无敌3 |[网页代码压缩包](https://archive.org/download/heroes3-wasm/) |
+| Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
 | Hollow Knight: Silksong | 空洞骑士：丝之歌 |[网页代码压缩包](https://archive.org/download/hollow-Knight-Silksong-webgame/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
 | Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
-| MiSide | 米塔 |待我上传 |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
 | OneShot | 一次机会 |[网页代码压缩包](https://archive.org/download/one-shot-v-1.03/) |
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
