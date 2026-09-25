@@ -23,6 +23,7 @@
 | CS:GO | 反恐精英：全球攻势 |[网页代码压缩包](https://archive.org/download/csgo-web/) |
 | CS 1.6 | 反恐精英1.6 |[网页代码压缩包](https://archive.org/download/cs1.6-web/) |
 | Diablo | 暗黑破坏神 |[网页代码压缩包](https://archive.org/download/diablo-wasm/) |
+| Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
 | GTA3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
