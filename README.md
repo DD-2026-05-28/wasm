@@ -8,8 +8,8 @@
 ## 项目完成情况
 
 - **已完成项目数量**：52
-- **未完成项目数量**：1
-- **完成度**：98.08%
+- **未完成项目数量**：2
+- **完成度**：96.30%
 
 # 备份项目列表
 最后更新时间：2026-09-25
@@ -32,8 +32,9 @@
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
-| GTA3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
-| GTAVC | 侠盗猎车手罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm/) |
+| Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
+| Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
+| Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Heroes of Might and Magic 3 | 魔法门之英雄无敌3 |[网页代码压缩包](https://archive.org/download/heroes3-wasm/) |
@@ -66,6 +67,6 @@
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
 | Wipeout | 反重力赛车 |[网页代码压缩包](https://github.com/phoboslab/wipeout-rewrite/) |
-| World of Warcraft | 魔兽世界 |待我上传 |
+| World of Warcraft | 魔兽世界 |待我上传|
 
 
