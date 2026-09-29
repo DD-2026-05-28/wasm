@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：52
+- **已完成项目数量**：53
 - **未完成项目数量**：2
-- **完成度**：96.30%
+- **完成度**：96.36%%
 
 # 备份项目列表
 最后更新时间：2026-09-25
@@ -41,6 +41,7 @@
 | Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
 | Hollow Knight: Silksong | 空洞骑士：丝之歌 |[网页代码压缩包](https://archive.org/download/hollow-Knight-Silksong-webgame/) |
+| LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
 | Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
