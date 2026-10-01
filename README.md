@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：53
+- **已完成项目数量**：54
 - **未完成项目数量**：2
-- **完成度**：96.36%%
+- **完成度**：96.43%%
 
 # 备份项目列表
 最后更新时间：2026-09-29
@@ -37,6 +37,7 @@
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
+| Halo: Campaign Evolved | 光环：战役进化 |[网页代码压缩包](https://archive.org/download/halo-wasm/) |
 | Heroes of Might and Magic 3 | 魔法门之英雄无敌3 |[网页代码压缩包](https://archive.org/download/heroes3-wasm/) |
 | Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
