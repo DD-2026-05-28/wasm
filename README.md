@@ -8,11 +8,11 @@
 ## 项目完成情况
 
 - **已完成项目数量**：54
-- **未完成项目数量**：2
-- **完成度**：96.43%
+- **未完成项目数量**：3
+- **完成度**：94.74%
 
 # 备份项目列表
-最后更新时间：2026-10-01
+最后更新时间：2026-10-06
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
@@ -33,6 +33,7 @@
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
+| Grand Theft Auto: 5 | 侠盗猎车手5 |待我上传|
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
