@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：56
+- **已完成项目数量**：57
 - **未完成项目数量**：3
-- **完成度**：94.92%
+- **完成度**：95%
 
 # 备份项目列表
 最后更新时间：2026-10-07
@@ -52,6 +52,7 @@
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
 | OpenMW | 开源上古卷轴3：晨风 |[网页代码压缩包](https://archive.org/download/morrowind-openmw-wasm/) |
 | OpenRA | 开源红警 |[网页代码压缩包](https://archive.org/download/openra-web_202606/) |
+| OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
 | OpenTTD | 开源运输大亨豪华版 |[网页代码压缩包](https://archive.org/download/open-ttd/) |
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
