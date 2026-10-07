@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：58
+- **已完成项目数量**：59
 - **未完成项目数量**：3
-- **完成度**：95.08%
+- **完成度**：95.16%
 
 # 备份项目列表
 最后更新时间：2026-10-07
@@ -73,7 +73,10 @@
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
+| Urban Terror | 都市恐怖 |[网页代码压缩包](https://archive.org/download/urban-terror-web/) |
 | Wipeout | 反重力赛车 |[网页代码压缩包](https://github.com/phoboslab/wipeout-rewrite/) |
 | World of Warcraft | 魔兽世界 |待我上传|
+
+- **托管贡献者名单**：@恒、@无所谓
 
 
