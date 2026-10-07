@@ -7,12 +7,12 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：54
+- **已完成项目数量**：55
 - **未完成项目数量**：3
-- **完成度**：94.74%
+- **完成度**：94.83%
 
 # 备份项目列表
-最后更新时间：2026-10-06
+最后更新时间：2026-10-07
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
@@ -65,6 +65,7 @@
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
+| Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
