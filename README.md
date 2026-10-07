@@ -77,6 +77,6 @@
 | Wipeout | 反重力赛车 |[网页代码压缩包](https://github.com/phoboslab/wipeout-rewrite/) |
 | World of Warcraft | 魔兽世界 |待我上传|
 
-- **托管贡献者名单**：@恒、@AliYa-chen
+- **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen
 
 
