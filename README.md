@@ -1,6 +1,6 @@
 # 原生移植 wasm 网页版游戏
 
-> 致力于记录与维护 Internet Archive 托管的备份代码网页项目。
+> 致力于记录与维护 Internet Archive 托管的备份网页代码。
 <br/>
 <mark>由 @黑雨D 进行代码备份托管工作</mark>
 <br/>
