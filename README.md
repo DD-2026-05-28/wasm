@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：63
+- **已完成项目数量**：64
 - **未完成项目数量**：2
-- **完成度**：96.92%
+- **完成度**：96.97%
 
 # 备份项目列表
 最后更新时间：2026-10-08
@@ -22,6 +22,7 @@
 | Bendy and the Ink Machine | 班迪与油印机 |[网页代码压缩包](https://archive.org/download/bendy-and-the-ink-machine_202606/) |
 | Brotato |土豆兄弟 |[网页代码压缩包](https://archive.org/download/brotatodlc-main/) |
 | Call of Duty 4: Modern Warfare | 使命召唤4：现代战争 |[网页代码压缩包](https://archive.org/download/cod-4_202609/) |
+| Call of Duty: Black Ops | 使命召唤：黑色行动 |[网页代码压缩包](https://archive.org/download/bo1z-wasm/) |
 | Celeste | 蔚蓝 |[网页代码压缩包](https://archive.org/download/celeste-wasm/) |
 | Command & Conquer: Generals | 命令与征服：将军 |[网页代码压缩包](https://archive.org/download/dist_20260723/) |
 | Cossacks 1.52 | 哥萨克：欧洲战争 |[网页代码压缩包](https://archive.org/download/cossaacks-1.52-web/) |
