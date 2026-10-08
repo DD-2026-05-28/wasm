@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：61
+- **已完成项目数量**：62
 - **未完成项目数量**：2
-- **完成度**：96.83%
+- **完成度**：96.88%
 
 # 备份项目列表
 最后更新时间：2026-10-07
@@ -57,6 +57,7 @@
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
 | Plants vs. Zombies | 植物大战僵尸 |[网页代码压缩包](https://archive.org/download/pvz-wasm/) |
+| Pro Evolution Soccer 6 | 实况足球6 |[网页代码压缩包](https://archive.org/download/pes-6-wasm/) |
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
 | Portal2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
@@ -78,6 +79,6 @@
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 啄木鸟伍迪：逃离秃鹰公园 |[网页代码压缩包](https://archive.org/download/woody-wasm/)|
 | World of Warcraft | 魔兽世界 |待我上传|
 
-- **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen
+- **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
 
 
