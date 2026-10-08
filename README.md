@@ -1,18 +1,18 @@
 # 原生移植 wasm 网页版游戏
 
-> 致力于记录与维护 Internet Archive 托管项目的在线镜像及备份代码仓库。
+> 致力于记录与维护 Internet Archive 托管的备份代码网页项目。
 <br/>
 <mark>由 @黑雨D 进行代码备份托管工作</mark>
 <br/>
 
 ## 项目完成情况
 
-- **已完成项目数量**：62
+- **已完成项目数量**：63
 - **未完成项目数量**：2
-- **完成度**：96.88%
+- **完成度**：96.92%
 
 # 备份项目列表
-最后更新时间：2026-10-07
+最后更新时间：2026-10-08
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
@@ -44,6 +44,7 @@
 | Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
 | Hollow Knight: Silksong | 空洞骑士：丝之歌 |[网页代码压缩包](https://archive.org/download/hollow-Knight-Silksong-webgame/) |
+| Kerbal Space Program | 坎巴拉太空计划 |[网页代码压缩包](https://archive.org/download/ksp-wasm/) |
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
 | Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
