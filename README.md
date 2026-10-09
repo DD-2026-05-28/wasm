@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：67
+- **已完成项目数量**：68
 - **未完成项目数量**：2
-- **完成度**：97.10%
+- **完成度**：97.14%
 
 ## 更新日志
 
@@ -78,6 +78,7 @@
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
+| Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
 | Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
