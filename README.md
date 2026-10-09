@@ -71,7 +71,7 @@
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
-| Serious Sam | 英雄萨姆 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
+| Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm/) |
