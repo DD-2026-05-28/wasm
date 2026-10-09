@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：66
+- **已完成项目数量**：67
 - **未完成项目数量**：2
-- **完成度**：97.06%
+- **完成度**：97.10%
 
 ## 更新日志
 
-- 添加《割绳子：魔法》
+- 添加《英雄萨姆：二次遭遇》
   
 # 备份项目列表
 最后更新时间：2026-10-09
@@ -72,6 +72,7 @@
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
+| Serious Sam: The Second Encounter | 英雄萨姆：二次遭遇 |[网页代码压缩包](https://archive.org/download/ssam2-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm/) |
