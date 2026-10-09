@@ -7,12 +7,12 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：64
+- **已完成项目数量**：65
 - **未完成项目数量**：2
-- **完成度**：96.97%
+- **完成度**：97.01%
 
 # 备份项目列表
-最后更新时间：2026-10-08
+最后更新时间：2026-10-09
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
@@ -67,6 +67,7 @@
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam | 英雄萨姆 |[网页代码压缩包](https://github.com/Ser-Gen/Serious-Engine-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
+| Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
