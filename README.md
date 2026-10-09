@@ -11,11 +11,12 @@
 - **未完成项目数量**：2
 - **完成度**：97.01%
 
-# 备份项目列表
-最后更新时间：2026-10-09
 ## 更新日志
 
-- 修复英雄萨姆的链接
+- 修复英雄萨姆和反重力赛车的链接
+  
+# 备份项目列表
+最后更新时间：2026-10-09
 
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
@@ -82,7 +83,7 @@
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
 | Urban Terror | 都市恐怖 |[网页代码压缩包](https://archive.org/download/urban-terror-web/) |
-| Wipeout | 反重力赛车 |[网页代码压缩包](https://github.com/phoboslab/wipeout-rewrite/) |
+| Wipeout | 反重力赛车 |[网页代码压缩包](https://archive.org/download/wipeout-wasm/) |
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 啄木鸟伍迪：逃离秃鹰公园 |[网页代码压缩包](https://archive.org/download/woody-wasm/)|
 | World of Warcraft | 魔兽世界 |待我上传|
 
