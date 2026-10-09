@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：65
+- **已完成项目数量**：66
 - **未完成项目数量**：2
-- **完成度**：97.01%
+- **完成度**：97.06%
 
 ## 更新日志
 
-- 修复英雄萨姆和反重力赛车的链接
+- 添加《割绳子：魔法》
   
 # 备份项目列表
 最后更新时间：2026-10-09
@@ -33,6 +33,7 @@
 | Cossacks 1.52 | 哥萨克：欧洲战争 |[网页代码压缩包](https://archive.org/download/cossaacks-1.52-web/) |
 | Cro-Mag Rally | 原始人拉力赛 |[网页代码压缩包](https://archive.org/download/cromagrally_202606/) |
 | Cuphead | 茶杯头 |[网页代码压缩包](https://archive.org/download/cuphead_202606/) |
+| Cut the Rope: Magic | 割绳子：魔法 |[网页代码压缩包](https://archive.org/download/cut-the-rope-magic-wasm/) |
 | CS:GO | 反恐精英：全球攻势 |[网页代码压缩包](https://archive.org/download/csgo-web/) |
 | CS 1.6 | 反恐精英1.6 |[网页代码压缩包](https://archive.org/download/cs1.6-web/) |
 | Diablo | 暗黑破坏神 |[网页代码压缩包](https://archive.org/download/diablo-wasm/) |
