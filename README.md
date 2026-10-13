@@ -7,16 +7,16 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：68
+- **已完成项目数量**：69
 - **未完成项目数量**：2
-- **完成度**：97.14%
+- **完成度**：97.18%
 
 ## 更新日志
 
-- 修复《潜行者》
+- 添加反恐精英：起源
   
 # 备份项目列表
-最后更新时间：2026-10-11
+最后更新时间：2026-10-13
 
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
@@ -34,8 +34,9 @@
 | Cro-Mag Rally | 原始人拉力赛 |[网页代码压缩包](https://archive.org/download/cromagrally_202606/) |
 | Cuphead | 茶杯头 |[网页代码压缩包](https://archive.org/download/cuphead_202606/) |
 | Cut the Rope: Magic | 割绳子：魔法 |[网页代码压缩包](https://archive.org/download/cut-the-rope-magic-wasm/) |
-| CS:GO | 反恐精英：全球攻势 |[网页代码压缩包](https://archive.org/download/csgo-web/) |
-| CS 1.6 | 反恐精英1.6 |[网页代码压缩包](https://archive.org/download/cs1.6-web/) |
+| Counter-Strike 1.6 | 反恐精英1.6 |[网页代码压缩包](https://archive.org/download/cs1.6-web/) |
+| Counter-Strike: Global Offensive | 反恐精英：全球攻势 |[网页代码压缩包](https://archive.org/download/csgo-web/) |
+| Counter-Strike: Source | 反恐精英：起源 |[网页代码压缩包](https://archive.org/download/cs-s-wasm/) |
 | Diablo | 暗黑破坏神 |[网页代码压缩包](https://archive.org/download/diablo-wasm/) |
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
