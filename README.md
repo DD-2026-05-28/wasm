@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：70
+- **已完成项目数量**：71
 - **未完成项目数量**：2
-- **完成度**：97.22%
+- **完成度**：97.26%
 
 ## 更新日志
 
@@ -67,6 +67,7 @@
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
 | Plants vs. Zombies | 植物大战僵尸 |[网页代码压缩包](https://archive.org/download/pvz-wasm/) |
 | Pro Evolution Soccer 6 | 实况足球6 |[网页代码压缩包](https://archive.org/download/pes-6-wasm/) |
+| Poly Bridge | 保利桥 |[网页代码压缩包](https://archive.org/download/poly-bridge-web/) |
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
 | Portal2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
