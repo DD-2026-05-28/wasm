@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：71
+- **已完成项目数量**：72
 - **未完成项目数量**：2
-- **完成度**：97.26%
+- **完成度**：97.30%
 
 ## 更新日志
 
-- 添加《反恐精英：起源》、《绝地要塞2》、《保利桥》
+- 添加《反恐精英：起源》、《绝地要塞2》、《保利桥》、《疯狂兔子：回家》
   
 # 备份项目列表
 最后更新时间：2026-10-13
@@ -71,6 +71,7 @@
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
 | Portal2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
+| Rabbids Go Home | 疯狂兔子：回家 |[网页代码压缩包](http://archive.org/download/rabbids-go-home-web-wasm/) |
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
