@@ -13,7 +13,8 @@
 
 ## 更新日志
 
-- 添加《反恐精英：起源》、《绝地要塞2》、《保利桥》、《疯狂兔子：回家》
+- 添加《反恐精英：起源》、《绝地要塞2》、《保利桥》、《疯狂兔子：回家》的资源.
+- 修复《侠盗猎车手：罪恶都市》mod 加载器加载汤米贴图混乱的 BUG.
   
 # 备份项目列表
 最后更新时间：2026-10-13
@@ -44,7 +45,7 @@
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
-| Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm/) |
+| Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm-20261013/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Halo: Campaign Evolved | 光环：战役进化 |[网页代码压缩包](https://archive.org/download/halo-wasm/) |
