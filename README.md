@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：69
+- **已完成项目数量**：70
 - **未完成项目数量**：2
-- **完成度**：97.18%
+- **完成度**：97.22%
 
 ## 更新日志
 
-- 添加反恐精英：起源
+- 添加《反恐精英：起源》、《绝地要塞2》
   
 # 备份项目列表
 最后更新时间：2026-10-13
@@ -82,6 +82,7 @@
 | Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
 | Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
+| Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
