@@ -13,7 +13,7 @@
 
 ## 更新日志：2026-10-14
 
-- 添加《龙珠Z：武道会3》.
+- 添加《龙珠Z：电光火石3》.
 - 修复《侠盗猎车手：罪恶都市》mod 加载器加载汤米贴图混乱的 BUG.
   
 # 备份项目列表
@@ -40,7 +40,7 @@
 | Diablo | 暗黑破坏神 |[网页代码压缩包](https://archive.org/download/diablo-wasm/) |
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
-| Dragon Ball Z: Budokai 3 | 龙珠Z：武道会3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
+| Dragon Ball Z: Budokai Tenkaichi 3 | 龙珠Z：电光火石3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
