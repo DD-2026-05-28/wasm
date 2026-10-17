@@ -7,14 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：73
+- **已完成项目数量**：74
 - **未完成项目数量**：2
-- **完成度**：97.33%
+- **完成度**：97.37%
 
-## 更新日志：2026-10-14
+## 更新日志：2026-10-17
 
-- 添加《龙珠Z：电光火石3》.
-- 修复《侠盗猎车手：罪恶都市》mod 加载器加载汤米贴图混乱的 BUG.
+- 添加《战神：奥林匹斯之链》.
   
 # 备份项目列表
 
@@ -42,6 +41,7 @@
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Dragon Ball Z: Budokai Tenkaichi 3 | 龙珠Z：电光火石3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
+| God of War: Chains of Olympus | 战神：奥林匹斯之链 |[网页代码压缩包](https://archive.org/download/god-of-war_202610/) |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
