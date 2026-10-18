@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：76
+- **已完成项目数量**：78
 - **未完成项目数量**：2
-- **完成度**：97.44%
+- **完成度**：97.5%
 
-## 更新日志：2026-10-17
+## 更新日志：2026-10-18
 
-- 添加《战神：奥林匹斯之链》、《战神：斯巴达之魂》、《战神2》
+- 添加《生化危机4》、《GT赛车4》
   
 # 备份项目列表
 
@@ -48,6 +48,7 @@
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm-20261013/) |
+| GranTurismo 4 | GT赛车4 |[网页代码压缩包](https://archive.org/download/gran-turismo-4_202610/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Halo: Campaign Evolved | 光环：战役进化 |[网页代码压缩包](https://archive.org/download/halo-wasm/) |
@@ -76,6 +77,7 @@
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
 | Rabbids Go Home | 疯狂兔子：回家 |[网页代码压缩包](http://archive.org/download/rabbids-go-home-web-wasm/) |
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
+| Resident Evil 4 | 生化危机4 |[网页代码压缩包](https://archive.org/download/resident-evil-4_202610/) |
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
 | Serious Sam: The Second Encounter | 英雄萨姆：二次遭遇 |[网页代码压缩包](https://archive.org/download/ssam2-wasm/) |
