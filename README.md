@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：79
+- **已完成项目数量**：80
 - **未完成项目数量**：2
-- **完成度**：97.53%
+- **完成度**：97.56%
 
 ## 更新日志：2026-10-18
 
-- 添加《生化危机4》、《GT赛车4》、《极品飞车：最高通缉》
+- 添加《生化危机4》、《GT赛车4》、《极品飞车：最高通缉》、《铁拳：暗黑复苏》
   
 # 备份项目列表
 
@@ -91,6 +91,7 @@
 | Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
+| Tekken: Dark Resurrection | 铁拳：暗黑复苏 |[网页代码压缩包](https://archive.org/download/tekken-dark-resurrection_202610/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
