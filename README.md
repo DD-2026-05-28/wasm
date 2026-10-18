@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：78
+- **已完成项目数量**：79
 - **未完成项目数量**：2
-- **完成度**：97.5%
+- **完成度**：97.53%
 
 ## 更新日志：2026-10-18
 
-- 添加《生化危机4》、《GT赛车4》
+- 添加《生化危机4》、《GT赛车4》、《极品飞车：最高通缉》
   
 # 备份项目列表
 
@@ -60,6 +60,7 @@
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
 | Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
+| Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
 | OneShot | 一次机会 |[网页代码压缩包](https://archive.org/download/one-shot-v-1.03/) |
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
