@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：82
+- **已完成项目数量**：83
 - **未完成项目数量**：2
-- **完成度**：97.62%
+- **完成度**：97.65%
 
 ## 更新日志：2026-10-19
 
-- 添加《新超级马里奥兄弟》
+- 添加《新超级马里奥兄弟》、《马里奥赛车Wii》
   
 # 备份项目列表
 
@@ -60,7 +60,8 @@
 | Kerbal Space Program | 坎巴拉太空计划 |[网页代码压缩包](https://archive.org/download/ksp-wasm/) |
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
-| Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
+| Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](/) |
+| Minecraft 1.8.8| 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
 | New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
