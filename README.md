@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：80
+- **已完成项目数量**：81
 - **未完成项目数量**：2
-- **完成度**：97.56%
+- **完成度**：97.59%
 
-## 更新日志：2026-10-18
+## 更新日志：2026-10-19
 
-- 添加《生化危机4》、《GT赛车4》、《极品飞车：最高通缉》、《铁拳：暗黑复苏》
+- 添加《哈利波特：消失的密室》
   
 # 备份项目列表
 
@@ -52,6 +52,7 @@
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Halo: Campaign Evolved | 光环：战役进化 |[网页代码压缩包](https://archive.org/download/halo-wasm/) |
+| Harry Potter and the Chamber of Secrets | 哈利波特：消失的密室 |[网页代码压缩包](https://archive.org/download/hp2-wasm/) |
 | Heroes of Might and Magic 3 | 魔法门之英雄无敌3 |[网页代码压缩包](https://archive.org/download/heroes3-wasm/) |
 | Hexen II | 毁灭巫师2 |[网页代码压缩包](https://archive.org/download/hexen2-wasm/) |
 | Hollow Knight | 空洞骑士 |[网页代码压缩包](https://archive.org/download/hollow-knight-wasm/) |
