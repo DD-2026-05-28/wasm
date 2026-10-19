@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：81
+- **已完成项目数量**：82
 - **未完成项目数量**：2
-- **完成度**：97.59%
+- **完成度**：97.62%
 
 ## 更新日志：2026-10-19
 
-- 添加《哈利波特：消失的密室》
+- 添加《新超级马里奥兄弟》
   
 # 备份项目列表
 
@@ -62,6 +62,7 @@
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
 | Minecraft | 我的世界 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
+| New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
 | OneShot | 一次机会 |[网页代码压缩包](https://archive.org/download/one-shot-v-1.03/) |
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
