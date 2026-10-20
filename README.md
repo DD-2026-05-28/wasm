@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：85
+- **已完成项目数量**：86
 - **未完成项目数量**：2
-- **完成度**：97.70%
+- **完成度**：97.73%
 
 ## 更新日志：2026-10-20
 
-- 添加《极品飞车：地下狂飙2》、《马里奥赛车8》
+- 添加《极品飞车：地下狂飙2》、《马里奥赛车8》、《超级马里奥阳光》
   
 # 备份项目列表
 
@@ -94,6 +94,7 @@
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
 | Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
 | Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
+| Super Mario Sunshine | 超级马里奥阳光|[网页代码压缩包](https://archive.org/download/sms-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Tekken: Dark Resurrection | 铁拳：暗黑复苏 |[网页代码压缩包](https://archive.org/download/tekken-dark-resurrection_202610/) |
