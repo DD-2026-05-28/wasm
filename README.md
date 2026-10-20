@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：86
+- **已完成项目数量**：87
 - **未完成项目数量**：2
-- **完成度**：97.73%
+- **完成度**：97.75%
 
 ## 更新日志：2026-10-20
 
-- 添加《极品飞车：地下狂飙2》、《马里奥赛车8》、《超级马里奥阳光》
+- 添加《极品飞车：地下狂飙2》、《马里奥赛车8》、《超级马里奥阳光》、《索尼克大冒险2：战斗》、《路易吉洋馆》
   
 # 备份项目列表
 
@@ -60,6 +60,7 @@
 | Kerbal Space Program | 坎巴拉太空计划 |[网页代码压缩包](https://archive.org/download/ksp-wasm/) |
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
+| Luigi's Mansion | 路易吉洋馆 |[网页代码压缩包](https://archive.org/download/lm-wasm/) |
 | Mario Kart 8 | 马里奥赛车8 |[网页代码压缩包](https://archive.org/download/mk8-wasm-20261020/) |
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
 | Minecraft 1.8.8| 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
@@ -87,6 +88,7 @@
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
 | Serious Sam: The Second Encounter | 英雄萨姆：二次遭遇 |[网页代码压缩包](https://archive.org/download/ssam2-wasm/) |
+| Sonic Adventure 2: Battle | 索尼克大冒险2：战斗 |[网页代码压缩包](https://archive.org/download/sa2b-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm-20261011/) |
