@@ -60,7 +60,7 @@
 | Kerbal Space Program | 坎巴拉太空计划 |[网页代码压缩包](https://archive.org/download/ksp-wasm/) |
 | LEGO Racers | 乐高赛车 |[网页代码压缩包](https://archive.org/download/lego-racers-web/) |
 | Lobotomy Corporation | 脑叶切除公司 |[网页代码压缩包](https://archive.org/download/lobotomy-corporation/) |
-| Mario Kart 8 | 马里奥赛车8 |[网页代码压缩包](https://archive.org/download/mk8-wasm/) |
+| Mario Kart 8 | 马里奥赛车8 | 紧急修复中 |
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
 | Minecraft 1.8.8| 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
