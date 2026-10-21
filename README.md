@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：90
+- **已完成项目数量**：92
 - **未完成项目数量**：2
-- **完成度**：97.83%
+- **完成度**：97.87%
 
-## 更新日志：2026-10-21
+## 更新日志：2026-10-22
 
-- 添加《无人永生2：危险间谍》、《命令与征服：叛逆者》
+- 添加《塞尔达传输：风之杖》、《超级马里奥3D世界》
   
 # 备份项目列表
 
@@ -98,12 +98,14 @@
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
 | Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
-| Super Mario 64 | 超级马里奥 64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
+| Super Mario 3D World | 超级马里奥3D世界 |[网页代码压缩包](https://archive.org/download/sm3dw-wasm/) |
+| Super Mario 64 | 超级马里奥64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | Super Mario Sunshine | 超级马里奥阳光|[网页代码压缩包](https://archive.org/download/sms-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Tekken: Dark Resurrection | 铁拳：暗黑复苏 |[网页代码压缩包](https://archive.org/download/tekken-dark-resurrection_202610/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
+| The Legend of Zelda: The Wind Waker | 塞尔达传说：风之杖 |[网页代码压缩包](https://archive.org/download/wwhd-wasm/) |
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
