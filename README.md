@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：87
+- **已完成项目数量**：88
 - **未完成项目数量**：2
-- **完成度**：97.75%
+- **完成度**：97.78%
 
-## 更新日志：2026-10-20
+## 更新日志：2026-10-21
 
-- 添加《极品飞车：地下狂飙2》、《马里奥赛车8》、《超级马里奥阳光》、《索尼克大冒险2：战斗》、《路易吉洋馆》
+- 添加《无人永生2：危险间谍》
   
 # 备份项目列表
 
@@ -67,6 +67,7 @@
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
 | New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
+| No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 无人永生2：危险间谍 |[网页代码压缩包](https://archive.org/download/noonelivesforever2-wasm/) |
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
 | OneShot | 一次机会 |[网页代码压缩包](https://archive.org/download/one-shot-v-1.03/) |
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
