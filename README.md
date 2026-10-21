@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：88
+- **已完成项目数量**：89
 - **未完成项目数量**：2
-- **完成度**：97.78%
+- **完成度**：97.80%
 
 ## 更新日志：2026-10-21
 
-- 添加《无人永生2：危险间谍》
+- 添加《无人永生2：危险间谍》、《命令与征服：叛逆者》
   
 # 备份项目列表
 
@@ -28,7 +28,8 @@
 | Call of Duty 4: Modern Warfare | 使命召唤4：现代战争 |[网页代码压缩包](https://archive.org/download/cod-4_202609/) |
 | Call of Duty: Black Ops | 使命召唤：黑色行动 |[网页代码压缩包](https://archive.org/download/bo1z-wasm/) |
 | Celeste | 蔚蓝 |[网页代码压缩包](https://archive.org/download/celeste-wasm/) |
-| Command & Conquer: Generals | 命令与征服：将军 |[网页代码压缩包](https://archive.org/download/dist_20260723/) |
+| Command & Conquer: Generals – Zero Hour | 命令与征服：将军零点行动 |[网页代码压缩包](https://archive.org/download/dist_20260723/) |
+| Command & Conquer: Renegade | 命令与征服：叛逆者 |[网页代码压缩包](https://archive.org/download/commando-wasm/) |
 | Cossacks 1.52 | 哥萨克：欧洲战争 |[网页代码压缩包](https://archive.org/download/cossaacks-1.52-web/) |
 | Cro-Mag Rally | 原始人拉力赛 |[网页代码压缩包](https://archive.org/download/cromagrally_202606/) |
 | Cuphead | 茶杯头 |[网页代码压缩包](https://archive.org/download/cuphead_202606/) |
