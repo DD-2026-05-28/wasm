@@ -7,9 +7,9 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：89
+- **已完成项目数量**：90
 - **未完成项目数量**：2
-- **完成度**：97.80%
+- **完成度**：97.83%
 
 ## 更新日志：2026-10-21
 
@@ -64,7 +64,8 @@
 | Luigi's Mansion | 路易吉洋馆 |[网页代码压缩包](https://archive.org/download/lm-wasm/) |
 | Mario Kart 8 | 马里奥赛车8 |[网页代码压缩包](https://archive.org/download/mk8-wasm-20261020/) |
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
-| Minecraft 1.8.8| 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
+| Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
+| Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
 | New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
