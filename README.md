@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：92
+- **已完成项目数量**：93
 - **未完成项目数量**：2
-- **完成度**：97.87%
+- **完成度**：97.89%
 
 ## 更新日志：2026-10-22
 
-- 添加《塞尔达传输：风之杖》、《超级马里奥3D世界》
+- 添加《塞尔达传输：风之杖》、《超级马里奥3D世界》、《火影忍者疾风传：究极冲击》
   
 # 备份项目列表
 
@@ -66,6 +66,7 @@
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
+| Naruto Shippuden: Ultimate Impact | 火影忍者疾风传：究极冲击 |[网页代码压缩包](https://archive.org/download/narutoimpact-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
 | New Super Mario Bros | 新超级马里奥兄弟 |[网页代码压缩包](https://archive.org/download/new-super-mario-bros-wii_20261019/) |
