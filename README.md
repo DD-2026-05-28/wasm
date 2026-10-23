@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：93
+- **已完成项目数量**：94
 - **未完成项目数量**：2
-- **完成度**：97.89%
+- **完成度**：97.92%
 
-## 更新日志：2026-10-22
+## 更新日志：2026-10-23
 
-- 添加《塞尔达传输：风之杖》、《超级马里奥3D世界》、《火影忍者疾风传：究极冲击》
+- 添加《鬼妮》
   
 # 备份项目列表
 
@@ -74,6 +74,7 @@
 | Nox | 救世传说 |[网页代码压缩包](https://archive.org/download/nox_20260617/) |
 | OneShot | 一次机会 |[网页代码压缩包](https://archive.org/download/one-shot-v-1.03/) |
 | OneShot: World Machine Edition | 一次机会：世界机器版 |[网页代码压缩包](https://archive.org/download/oneshot-world-machine-edition/) |
+| Oni | 鬼妮 |[网页代码压缩包](https://archive.org/download/oni-wasm/) |
 | OpenMW | 开源上古卷轴3：晨风 |[网页代码压缩包](https://archive.org/download/morrowind-openmw-wasm/) |
 | OpenRA | 开源红警 |[网页代码压缩包](https://archive.org/download/openra-web_202606/) |
 | OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
