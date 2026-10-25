@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：95
+- **已完成项目数量**：96
 - **未完成项目数量**：2
-- **完成度**：97.94%
+- **完成度**：97.96%
 
-## 更新日志：2026-10-23
+## 更新日志：2026-10-25
 
-- 添加《鬼妮》、《NBA 街头篮球V3》
+- 添加《真人快打：末日战场》
   
 # 备份项目列表
 
@@ -66,6 +66,7 @@
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
+| Mortal Kombat: Armageddon | 真人快打：末日战场 |[网页代码压缩包](https://archive.org/download/mortal-kombat-armageddon-wasm/) |
 | Naruto Shippuden: Ultimate Impact | 火影忍者疾风传：究极冲击 |[网页代码压缩包](https://archive.org/download/narutoimpact-wasm/) |
 | NBA Street V3 | NBA 街头篮球V3 |[网页代码压缩包](https://archive.org/download/nbarecomp-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
