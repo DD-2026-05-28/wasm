@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：96
+- **已完成项目数量**：97
 - **未完成项目数量**：2
-- **完成度**：97.96%
+- **完成度**：97.98%
 
-## 更新日志：2026-10-25
+## 更新日志：2026-10-26
 
-- 添加《真人快打：末日战场》
+- 添加《赛博朋克2077》
   
 # 备份项目列表
 
@@ -37,6 +37,7 @@
 | Counter-Strike 1.6 | 反恐精英1.6 |[网页代码压缩包](https://archive.org/download/cs1.6-web/) |
 | Counter-Strike: Global Offensive | 反恐精英：全球攻势 |[网页代码压缩包](https://archive.org/download/csgo-web/) |
 | Counter-Strike: Source | 反恐精英：起源 |[网页代码压缩包](https://archive.org/download/cs-s-wasm/) |
+| Cyberpunk 2077 | 赛博朋克2077 |[网页代码压缩包](https://archive.org/download/cyberpunk2077-wasm/) |
 | Diablo | 暗黑破坏神 |[网页代码压缩包](https://archive.org/download/diablo-wasm/) |
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
