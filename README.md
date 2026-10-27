@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：97
+- **已完成项目数量**：98
 - **未完成项目数量**：2
-- **完成度**：97.98%
+- **完成度**：98%
 
-## 更新日志：2026-10-26
+## 更新日志：2026-10-27
 
-- 添加《赛博朋克2077》
+- 添加《铁拳5》
   
 # 备份项目列表
 
@@ -68,7 +68,7 @@
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
 | Mortal Kombat: Armageddon | 真人快打：末日战场 |[网页代码压缩包](https://archive.org/download/mortal-kombat-armageddon-wasm/) |
-| Naruto Shippuden: Ultimate Impact | 火影忍者疾风传：究极冲击 |[网页代码压缩包](https://archive.org/download/narutoimpact-wasm/) |
+| Naruto Shippuden: Ultimate Impact | 火影忍者疾风传：究极冲击 |[网页代码压缩包](https://archive.org/download/narutoimpact-wasm-20261027/) |
 | NBA Street V3 | NBA 街头篮球V3 |[网页代码压缩包](https://archive.org/download/nbarecomp-wasm/) |
 | Need For Speed: Underground 2 | 极品飞车：地下狂飙2 |[网页代码压缩包](https://archive.org/download/nfsu2-wasm/) |
 | Need For Speed：Most Wanted | 极品飞车：最高通缉 |[网页代码压缩包](https://archive.org/download/need-for-speed-most-wanted_202610/) |
@@ -108,6 +108,7 @@
 | Super Mario Sunshine | 超级马里奥阳光|[网页代码压缩包](https://archive.org/download/sms-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
+| Tekken 5 | 铁拳5 |[网页代码压缩包](https://archive.org/download/tekken5-wasm/) |
 | Tekken: Dark Resurrection | 铁拳：暗黑复苏 |[网页代码压缩包](https://archive.org/download/tekken-dark-resurrection_202610/) |
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Legend of Zelda: The Wind Waker | 塞尔达传说：风之杖 |[网页代码压缩包](https://archive.org/download/wwhd-wasm/) |
