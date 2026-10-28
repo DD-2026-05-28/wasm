@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：99
+- **已完成项目数量**：100
 - **未完成项目数量**：2
-- **完成度**：98.02%
+- **完成度**：98.04%
 
 ## 更新日志：2026-10-28
 
-- 添加《星际争霸：幽灵》
+- 添加《星际争霸：幽灵》、《怪物猎人：自由联合》
   
 # 备份项目列表
 
@@ -67,6 +67,7 @@
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
+| Monster Hunter Freedom Unite | 怪物猎人：自由联合 |[网页代码压缩包](https://archive.org/download/mhfu-wasm/) |
 | Mortal Kombat: Armageddon | 真人快打：末日战场 |[网页代码压缩包](https://archive.org/download/mortal-kombat-armageddon-wasm/) |
 | Naruto Shippuden: Ultimate Impact | 火影忍者疾风传：究极冲击 |[网页代码压缩包](https://archive.org/download/narutoimpact-wasm-20261027/) |
 | NBA Street V3 | NBA 街头篮球V3 |[网页代码压缩包](https://archive.org/download/nbarecomp-wasm/) |
@@ -122,5 +123,6 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
+
 
 
