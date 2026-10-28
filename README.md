@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：98
+- **已完成项目数量**：99
 - **未完成项目数量**：2
-- **完成度**：98%
+- **完成度**：98.02%
 
-## 更新日志：2026-10-27
+## 更新日志：2026-10-28
 
-- 添加《铁拳5》
+- 添加《星际争霸：幽灵》
   
 # 备份项目列表
 
@@ -100,6 +100,7 @@
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm-20261011/) |
+| StarCraft: Ghost| 星际争霸：幽灵 |[网页代码压缩包](https://archive.org/download/star-craft-ghost-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
 | Star Wars Jedi Knight: Jedi Academy | 星球大战绝地武士3：绝地学院 |[网页代码压缩包](https://archive.org/download/openjk-sp-wasm/) |
 | Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
