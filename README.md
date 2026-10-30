@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：101
+- **已完成项目数量**：102
 - **未完成项目数量**：2
-- **完成度**：98.06%
+- **完成度**：98.08%
 
-## 更新日志：2026-10-28
+## 更新日志：2026-10-30
 
-- 添加《星际争霸：幽灵》、《怪物猎人：自由联合》、《爱丽丝梦游魔境》
+- 添加《夺命邮差2》
   
 # 备份项目列表
 
@@ -90,7 +90,8 @@
 | Pro Evolution Soccer 6 | 实况足球6 |[网页代码压缩包](https://archive.org/download/pes-6-wasm/) |
 | Poly Bridge | 保利桥 |[网页代码压缩包](https://archive.org/download/poly-bridge-web/) |
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
-| Portal2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
+| Portal 2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
+| Postal 2 | 夺命邮差2 |[网页代码压缩包](https://archive.org/download/postal2_20261030/) |
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
 | Rabbids Go Home | 疯狂兔子：回家 |[网页代码压缩包](http://archive.org/download/rabbids-go-home-web-wasm/) |
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
