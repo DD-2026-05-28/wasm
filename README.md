@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：102
+- **已完成项目数量**：103
 - **未完成项目数量**：2
-- **完成度**：98.08%
+- **完成度**：98.10%
 
 ## 更新日志：2026-10-30
 
-- 添加《夺命邮差2》
+- 添加《夺命邮差2》、《超级马里奥银河》
   
 # 备份项目列表
 
@@ -109,7 +109,8 @@
 | Subway Surfers | 地铁跑酷 |[网页代码压缩包](https://archive.org/download/subway-surfers-web/) |
 | Super Mario 3D World | 超级马里奥3D世界 |[网页代码压缩包](https://archive.org/download/sm3dw-wasm/) |
 | Super Mario 64 | 超级马里奥64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
-| Super Mario Sunshine | 超级马里奥阳光|[网页代码压缩包](https://archive.org/download/sms-wasm/) |
+| Super Mario Galaxy | 超级马里奥银河 |[网页代码压缩包](https://archive.org/download/super-mario-galaxy_20261030/) |
+| Super Mario Sunshine | 超级马里奥阳光 |[网页代码压缩包](https://archive.org/download/sms-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Tekken 5 | 铁拳5 |[网页代码压缩包](https://archive.org/download/tekken5-wasm/) |
@@ -125,6 +126,5 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
-
 
 
