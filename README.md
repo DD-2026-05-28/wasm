@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：103
+- **已完成项目数量**：104
 - **未完成项目数量**：2
-- **完成度**：98.10%
+- **完成度**：98.11%
 
-## 更新日志：2026-10-30
+## 更新日志：2026-11-01
 
-- 添加《夺命邮差2》、《超级马里奥银河》
+- 添加《横冲直撞2》
   
 # 备份项目列表
 
@@ -43,6 +43,7 @@
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Dragon Ball Z: Budokai Tenkaichi 3 | 龙珠Z：电光火石3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
+| Flat Out 2 | Flat Out 2 |[网页代码压缩包](https://archive.org/download/flat-out-2_20261101/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
 | God of War: Chains of Olympus | 战神：奥林匹斯之链 |[网页代码压缩包](https://archive.org/download/god-of-war_202610/) |
 | God of War: Ghost of Sparta | 战神：斯巴达之魂 |[网页代码压缩包](https://archive.org/download/god-of-war-ghost-of-sparta_202610/) |
@@ -126,5 +127,4 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
-
 
