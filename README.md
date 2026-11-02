@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：105
+- **已完成项目数量**：106
 - **未完成项目数量**：3
-- **完成度**：97.22%
+- **完成度**：97.25%
 
 ## 更新日志：2026-11-02
 
-- 添加《虚幻竞技场2004》
+- 添加《虚幻竞技场2004》、《虚幻锦标赛2》
   
 # 备份项目列表
 
@@ -121,6 +121,7 @@
 | The Legend of Zelda: The Wind Waker | 塞尔达传说：风之杖 |[网页代码压缩包](https://archive.org/download/wwhd-wasm/) |
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
+| Unreal Championship 2 | 虚幻锦标赛2 |[网页代码压缩包](https://archive.org/download/uc2_20261102/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
 | Unreal Tournament 2004 | 虚幻竞技场2004 |[网页代码压缩包](https://archive.org/download/ut2004_202611/) |
 | Urban Terror | 都市恐怖 |[网页代码压缩包](https://archive.org/download/urban-terror-web/) |
