@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：104
-- **未完成项目数量**：2
-- **完成度**：98.11%
+- **已完成项目数量**：105
+- **未完成项目数量**：3
+- **完成度**：97.22%
 
-## 更新日志：2026-11-01
+## 更新日志：2026-11-02
 
-- 添加《横冲直撞2》
+- 添加《虚幻竞技场2004》
   
 # 备份项目列表
 
@@ -49,6 +49,7 @@
 | God of War: Ghost of Sparta | 战神：斯巴达之魂 |[网页代码压缩包](https://archive.org/download/god-of-war-ghost-of-sparta_202610/) |
 | God of War 2 | 战神2 |[网页代码压缩包](https://archive.org/download/god-of-war-2_202610/) |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
+| Grand Theft Auto 4 | 侠盗猎车手4 | 待我上传 |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm-20261013/) |
@@ -121,6 +122,7 @@
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
+| Unreal Tournament 2004 | 虚幻竞技场2004 |[网页代码压缩包](https://archive.org/download/ut2004_202611/) |
 | Urban Terror | 都市恐怖 |[网页代码压缩包](https://archive.org/download/urban-terror-web/) |
 | Wipeout | 反重力赛车 |[网页代码压缩包](https://archive.org/download/wipeout-wasm/) |
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 啄木鸟伍迪：逃离秃鹰公园 |[网页代码压缩包](https://archive.org/download/woody-wasm/)|
