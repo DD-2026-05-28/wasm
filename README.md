@@ -7,13 +7,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：107
+- **已完成项目数量**：108
 - **未完成项目数量**：3
-- **完成度**：97.27%
+- **完成度**：97.30%
 
-## 更新日志：2026-11-02
+## 更新日志：2026-11-04
 
-- 添加《虚幻竞技场2004》、《虚幻锦标赛2》、《全球行动》
+- 添加《杀戮尖塔》
   
 # 备份项目列表
 
@@ -105,6 +105,7 @@
 | Sonic Adventure 2: Battle | 索尼克大冒险2：战斗 |[网页代码压缩包](https://archive.org/download/sa2b-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
+| Slay The Spire | 杀戮尖塔 |[网页代码压缩包](https://archive.org/download/slay-the-spire/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm-20261011/) |
 | StarCraft: Ghost| 星际争霸：幽灵 |[网页代码压缩包](https://archive.org/download/star-craft-ghost-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
