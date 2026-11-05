@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：108
+- **已完成项目数量**：110
 - **未完成项目数量**：3
-- **完成度**：97.30%
+- **完成度**：97.35%
 
 ## 更新日志：2026-11-04
 
-- 添加《杀戮尖塔》
+- 添加《雨世界》、《史莱姆农场》
   
 # 备份项目列表
 
@@ -98,11 +98,13 @@
 | Postal 2 | 夺命邮差2 |[网页代码压缩包](https://archive.org/download/postal2_20261030/) |
 | Quake III Arena | 雷神之锤3：竞技场 |[网页代码压缩包](https://archive.org/download/quake-3-wasm/) |
 | Rabbids Go Home | 疯狂兔子：回家 |[网页代码压缩包](http://archive.org/download/rabbids-go-home-web-wasm/) |
+| Rain World | 雨世界 |[网页代码压缩包](https://archive.org/download/rain-world_202611/) |
 | Return to Castle Wolfenstein | 重返德军总部 |[网页代码压缩包](https://archive.org/download/rtcw-wasm) |
 | Resident Evil 4 | 生化危机4 |[网页代码压缩包](https://archive.org/download/resident-evil-4_202610/) |
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
 | Serious Sam: The Second Encounter | 英雄萨姆：二次遭遇 |[网页代码压缩包](https://archive.org/download/ssam2-wasm/) |
+| Slime Rancher | 史莱姆农场 |[网页代码压缩包](https://archive.org/download/slime-rancher_202611/) |
 | Sonic Adventure 2: Battle | 索尼克大冒险2：战斗 |[网页代码压缩包](https://archive.org/download/sa2b-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
 | Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
