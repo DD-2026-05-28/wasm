@@ -17,6 +17,8 @@
 ---
 
 想玩的游戏
+| Name | 名称 | 网页代码压缩包 |
+| :---: | :---: | :---: |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
 | Grand Theft Auto 4 | 侠盗猎车手4 | 待我上传 |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
