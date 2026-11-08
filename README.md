@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：112
+- **已完成项目数量**：113
 - **未完成项目数量**：3
-- **完成度**：97.39%
+- **完成度**：97.41%
 
 ## 更新日志：2026-11-08
 
-- 添加《超级马里奥创作家2》
+- 添加《超级马里奥创作家2》、《涂鸦躲猫猫》
   
 # 备份项目列表
 
@@ -70,6 +70,7 @@
 | Luigi's Mansion | 路易吉洋馆 |[网页代码压缩包](https://archive.org/download/lm-wasm/) |
 | Mario Kart 8 | 马里奥赛车8 |[网页代码压缩包](https://archive.org/download/mk8-wasm-20261020/) |
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
+| Meccha Chameleon | 涂鸦躲猫猫 |[网页代码压缩包](https://archive.org/download/mechachameleon/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
 | Monster Hunter Freedom Unite | 怪物猎人：自由联合 |[网页代码压缩包](https://archive.org/download/mhfu-wasm/) |
