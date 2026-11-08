@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：111
+- **已完成项目数量**：112
 - **未完成项目数量**：3
-- **完成度**：97.37%
+- **完成度**：97.39%
 
 ## 更新日志：2026-11-07
 
-- 添加《新超级马里奥兄弟U》
+- 添加《超级马里奥创作家2》
   
 # 备份项目列表
 
@@ -118,6 +118,7 @@
 | Super Mario 3D World | 超级马里奥3D世界 |[网页代码压缩包](https://archive.org/download/sm3dw-wasm/) |
 | Super Mario 64 | 超级马里奥64 |[网页代码压缩包](https://archive.org/download/sm64-wasm/) |
 | Super Mario Galaxy | 超级马里奥银河 |[网页代码压缩包](https://archive.org/download/super-mario-galaxy_20261030/) |
+| Super Mario Maker 2 | 超级马力欧创作家2 |[网页代码压缩包](https://archive.org/download/smm2_20261108/) |
 | Super Mario Sunshine | 超级马里奥阳光 |[网页代码压缩包](https://archive.org/download/sms-wasm/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
