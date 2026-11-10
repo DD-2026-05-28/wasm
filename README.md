@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：115
+- **已完成项目数量**：116
 - **未完成项目数量**：2
-- **完成度**：98.29%
+- **完成度**：98.31%
 
 ## 更新日志：2026-11-10
 
-- 添加《辐射：新维加斯》、《侠盗猎车手4》
+- 添加《辐射：新维加斯》、《侠盗猎车手4》、《几何冲刺》
   
 # 备份项目列表
 
@@ -47,6 +47,7 @@
 | Fallout: New Vegas | 辐射：新维加斯 |[网页代码压缩包](https://archive.org/download/new-vegas_202611/) |
 | Flat Out 2 | Flat Out 2 |[网页代码压缩包](https://archive.org/download/flat-out-2_20261101/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
+| Geometry Dash | 几何冲刺 |[网页代码压缩包](https://archive.org/download/geometry-dash_202611/) |
 | Global Operations | 全球行动 |[网页代码压缩包](https://archive.org/download/glops/) |
 | God of War: Chains of Olympus | 战神：奥林匹斯之链 |[网页代码压缩包](https://archive.org/download/god-of-war_202610/) |
 | God of War: Ghost of Sparta | 战神：斯巴达之魂 |[网页代码压缩包](https://archive.org/download/god-of-war-ghost-of-sparta_202610/) |
