@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：114
-- **未完成项目数量**：3
-- **完成度**：97.44%
+- **已完成项目数量**：115
+- **未完成项目数量**：2
+- **完成度**：98.29%
 
 ## 更新日志：2026-11-10
 
-- 添加《辐射：新维加斯》
+- 添加《辐射：新维加斯》、《侠盗猎车手4》
   
 # 备份项目列表
 
@@ -52,7 +52,7 @@
 | God of War: Ghost of Sparta | 战神：斯巴达之魂 |[网页代码压缩包](https://archive.org/download/god-of-war-ghost-of-sparta_202610/) |
 | God of War 2 | 战神2 |[网页代码压缩包](https://archive.org/download/god-of-war-2_202610/) |
 | Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
-| Grand Theft Auto 4 | 侠盗猎车手4 | 待我上传 |
+| Grand Theft Auto 4 | 侠盗猎车手4 |[网页代码压缩包](https://archive.org/download/gta4-web-v0.1.8/) |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm-20261013/) |
@@ -139,4 +139,5 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
+
 
