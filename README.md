@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：113
+- **已完成项目数量**：114
 - **未完成项目数量**：3
-- **完成度**：97.41%
+- **完成度**：97.44%
 
-## 更新日志：2026-11-08
+## 更新日志：2026-11-10
 
-- 添加《超级马里奥创作家2》、《涂鸦躲猫猫》
+- 添加《辐射：新维加斯》
   
 # 备份项目列表
 
@@ -44,6 +44,7 @@
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Dragon Ball Z: Budokai Tenkaichi 3 | 龙珠Z：电光火石3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
+| Fallout: New Vegas | 辐射：新维加斯 |[网页代码压缩包](https://archive.org/download/new-vegas_202611/) |
 | Flat Out 2 | Flat Out 2 |[网页代码压缩包](https://archive.org/download/flat-out-2_20261101/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
 | Global Operations | 全球行动 |[网页代码压缩包](https://archive.org/download/glops/) |
