@@ -94,7 +94,7 @@
 | OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
 | OpenTTD | 开源运输大亨豪华版 |[网页代码压缩包](https://archive.org/download/open-ttd/) |
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
-| Pikmin | 皮克敏 |待我上传 |
+| Pikmin | 皮克敏 |[网页代码压缩包](https://archive.org/download/pikmin-20261111/) |
 | Pikmin 2 | 皮克敏2 |[网页代码压缩包](https://archive.org/download/pikmin2/) |
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
 | Plants vs. Zombies | 植物大战僵尸 |[网页代码压缩包](https://archive.org/download/pvz-wasm/) |
