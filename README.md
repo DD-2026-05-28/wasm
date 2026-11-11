@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：116
+- **已完成项目数量**：118
 - **未完成项目数量**：2
-- **完成度**：98.31%
+- **完成度**：98.33%
 
-## 更新日志：2026-11-10
+## 更新日志：2026-11-11
 
-- 添加《辐射：新维加斯》、《侠盗猎车手4》、《几何冲刺》
+- 添加《任天堂明星大乱斗DX》、《马里奥派对4》
   
 # 备份项目列表
 
@@ -72,6 +72,7 @@
 | Luigi's Mansion | 路易吉洋馆 |[网页代码压缩包](https://archive.org/download/lm-wasm/) |
 | Mario Kart 8 | 马里奥赛车8 |[网页代码压缩包](https://archive.org/download/mk8-wasm-20261020/) |
 | Mario Kart Wii | 马里奥赛车Wii |[网页代码压缩包](https://archive.org/download/mario-kart-wii-wasm/) |
+| Mario Party 4 | 马里奥派对4 |[网页代码压缩包](https://archive.org/download/mario-party-4_202611/) |
 | Meccha Chameleon | 涂鸦躲猫猫 |[网页代码压缩包](https://archive.org/download/mechachameleon/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
@@ -123,6 +124,7 @@
 | Super Mario Galaxy | 超级马里奥银河 |[网页代码压缩包](https://archive.org/download/super-mario-galaxy_20261030/) |
 | Super Mario Maker 2 | 超级马力欧创作家2 |[网页代码压缩包](https://archive.org/download/smm2_20261108/) |
 | Super Mario Sunshine | 超级马里奥阳光 |[网页代码压缩包](https://archive.org/download/sms-wasm/) |
+| Super Smash Bros. Melee| 任天堂明星大乱斗DX |[网页代码压缩包](https://archive.org/download/super-smash-bros-melee_202611/) |
 | SuperTuxKart | 超级企鹅卡丁车 |[网页代码压缩包](https://archive.org/download/supertuxkart_202606/) |
 | Team Fortress 2 | 绝地要塞2 |[网页代码压缩包](https://archive.org/download/tf2-wasm/) |
 | Tekken 5 | 铁拳5 |[网页代码压缩包](https://archive.org/download/tekken5-wasm/) |
@@ -140,5 +142,4 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
-
 
