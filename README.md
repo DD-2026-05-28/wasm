@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：118
+- **已完成项目数量**：121
 - **未完成项目数量**：2
-- **完成度**：98.33%
+- **完成度**：98.37%
 
 ## 更新日志：2026-11-11
 
-- 添加《任天堂明星大乱斗DX》、《马里奥派对4》
+- 添加《任天堂明星大乱斗DX》、《马里奥派对4》、《皮克敏2》、《宝可梦 XD：暗之旋风》
   
 # 备份项目列表
 
@@ -94,9 +94,12 @@
 | OpenRCT2| 过山车大亨2 |[网页代码压缩包](https://archive.org/download/openrct-2-wasm/) |
 | OpenTTD | 开源运输大亨豪华版 |[网页代码压缩包](https://archive.org/download/open-ttd/) |
 | Pekka Kana 2 | 公鸡培卡2 |[网页代码压缩包](https://archive.org/download/pk2_20260728/) |
+| Pikmin | 皮克敏 |待我上传 |
+| Pikmin 2 | 皮克敏2 |[网页代码压缩包](https://archive.org/download/pikmin2/) |
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
 | Plants vs. Zombies | 植物大战僵尸 |[网页代码压缩包](https://archive.org/download/pvz-wasm/) |
 | Pro Evolution Soccer 6 | 实况足球6 |[网页代码压缩包](https://archive.org/download/pes-6-wasm/) |
+| Pokémon XD: Gale of Darkness | 宝可梦 XD：暗之旋风 |[网页代码压缩包](https://archive.org/download/pxdgod/) |
 | Poly Bridge | 保利桥 |[网页代码压缩包](https://archive.org/download/poly-bridge-web/) |
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
 | Portal 2 | 传送门2 |[网页代码压缩包](https://archive.org/download/portal-2-wasm/) |
