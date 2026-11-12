@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：121
+- **已完成项目数量**：122
 - **未完成项目数量**：2
-- **完成度**：98.37%
+- **完成度**：98.39%
 
-## 更新日志：2026-11-11
+## 更新日志：2026-11-12
 
-- 添加《任天堂明星大乱斗DX》、《马里奥派对4》、《皮克敏2》、《宝可梦 XD：暗之旋风》
+- 添加《孢子》
   
 # 备份项目列表
 
@@ -112,11 +112,12 @@
 | Roblox 2016 | 罗布乐思2016 |[网页代码压缩包](https://archive.org/download/roblox-studio-web/) |
 | Serious Sam: The First Encounter | 英雄萨姆：首次出击 |[网页代码压缩包](https://archive.org/download/ssam-wasm/) |
 | Serious Sam: The Second Encounter | 英雄萨姆：二次遭遇 |[网页代码压缩包](https://archive.org/download/ssam2-wasm/) |
+| Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
+| Slay The Spire | 杀戮尖塔 |[网页代码压缩包](https://archive.org/download/slay-the-spire/) |
 | Slime Rancher | 史莱姆农场 |[网页代码压缩包](https://archive.org/download/slime-rancher_202611/) |
 | Sonic Adventure 2: Battle | 索尼克大冒险2：战斗 |[网页代码压缩包](https://archive.org/download/sa2b-wasm/) |
 | Sonic the Hedgehog 4 | 刺猬索尼克4 |[网页代码压缩包](https://archive.org/download/sonic4_202607/) |
-| Skate 3 | 滑板3 |[网页代码压缩包](https://archive.org/download/skate3-wasm/) |
-| Slay The Spire | 杀戮尖塔 |[网页代码压缩包](https://archive.org/download/slay-the-spire/) |
+| Spore | 孢子 |[网页代码压缩包](https://archive.org/download/spore_202611/) |
 | S.T.A.L.K.E.R. | 潜行者 |[网页代码压缩包](https://archive.org/download/s.-t.-a.-l.-k.-e.-r.-wasm-20261011/) |
 | StarCraft: Ghost| 星际争霸：幽灵 |[网页代码压缩包](https://archive.org/download/star-craft-ghost-wasm/) |
 | Stardew Valley | 星露谷物语 |[网页代码压缩包](https://archive.org/download/stardew-wasm/) |
@@ -145,4 +146,3 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
-
