@@ -8,19 +8,20 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：122
+- **已完成项目数量**：123
 - **未完成项目数量**：2
-- **完成度**：98.39%
+- **完成度**：98.4%
 
-## 更新日志：2026-11-12
+## 更新日志：2026-11-13
 
-- 添加《孢子》
+- 添加《失忆症：黑暗后裔》
   
 # 备份项目列表
 
 | Name | 名称 | 网页代码压缩包 |
 | :---: | :---: | :---: |
 | American McGee's Alice | 爱丽丝梦游魔境 |[网页代码压缩包](https://archive.org/download/alice-wasm-20261028/) |
+| Amnesia: The Dark Descent | 失忆症：黑暗后裔 |[网页代码压缩包](https://archive.org/download/amnesia-the-dark-descent_202611/) |
 | Angry Birds 2 | 愤怒的小鸟2 |[网页代码压缩包](https://archive.org/download/angry-birds-2_202606/) |
 | Animal Crossing | 动物森友会 |[网页代码压缩包](https://archive.org/download/animal-crossing-wasm/) |
 | Arx Fatalis | 地城英雄志 |[网页代码压缩包](https://archive.org/download/arx-fatalis_202606/) |
