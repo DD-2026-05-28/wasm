@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：123
+- **已完成项目数量**：124
 - **未完成项目数量**：2
-- **完成度**：98.4%
+- **完成度**：98.41%
 
 ## 更新日志：2026-11-13
 
-- 添加《失忆症：黑暗后裔》
+- 添加《失忆症：黑暗后裔》、《我的世界 26.3》
   
 # 备份项目列表
 
@@ -76,6 +76,7 @@
 | Mario Party 4 | 马里奥派对4 |[网页代码压缩包](https://archive.org/download/mario-party-4_202611/) |
 | Meccha Chameleon | 涂鸦躲猫猫 |[网页代码压缩包](https://archive.org/download/mechachameleon/) |
 | Minecraft 1.8.8 | 我的世界1.8.8 |[网页代码压缩包](https://archive.org/download/minecraft-wasm/) |
+| Minecraft 26.3 | 我的世界26.3 |[网页代码压缩包](https://archive.org/download/horizon-26-3-beta/) |
 | Minecraft: Pocket Edition | 我的世界：携带版 |[网页代码压缩包](https://archive.org/download/mcpe-wasm/) |
 | Monster Hunter Freedom Unite | 怪物猎人：自由联合 |[网页代码压缩包](https://archive.org/download/mhfu-wasm/) |
 | Mortal Kombat: Armageddon | 真人快打：末日战场 |[网页代码压缩包](https://archive.org/download/mortal-kombat-armageddon-wasm/) |
