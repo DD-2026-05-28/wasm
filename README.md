@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：124
+- **已完成项目数量**：125
 - **未完成项目数量**：2
-- **完成度**：98.41%
+- **完成度**：98.43%
 
 ## 更新日志：2026-11-13
 
-- 添加《失忆症：黑暗后裔》、《我的世界 26.3》
+- 添加《失忆症：黑暗后裔》、《我的世界 26.3》、《辐射2》
   
 # 备份项目列表
 
@@ -45,6 +45,7 @@
 | Doki Doki Literature Club! | 心跳文学部 |[网页代码压缩包](https://archive.org/download/ddlc-wasm/) |
 | Doom3 | 毁灭战士3 |[网页代码压缩包](https://archive.org/download/doom3_202606/) |
 | Dragon Ball Z: Budokai Tenkaichi 3 | 龙珠Z：电光火石3 |[网页代码压缩包](https://archive.org/download/budokai-t-3-wasm/) |
+| Fallout 2 | 辐射2 |[网页代码压缩包](https://archive.org/download/fallout-2_202611/) |
 | Fallout: New Vegas | 辐射：新维加斯 |[网页代码压缩包](https://archive.org/download/new-vegas_202611/) |
 | Flat Out 2 | Flat Out 2 |[网页代码压缩包](https://archive.org/download/flat-out-2_20261101/) |
 | Fruit Ninja | 水果忍者 |[网页代码压缩包](https://archive.org/download/fruitninja-web/) |
