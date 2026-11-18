@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：126
+- **已完成项目数量**：127
 - **未完成项目数量**：2
-- **完成度**：98.44%
+- **完成度**：98.45%
 
-## 更新日志：2026-11-16
+## 更新日志：2026-11-18
 
-- 添加《纸片马里奥：千年之门》
+- 添加《黑煞》
   
 # 备份项目列表
 
@@ -27,6 +27,7 @@
 | Arx Fatalis | 地城英雄志 |[网页代码压缩包](https://archive.org/download/arx-fatalis_202606/) |
 | Balatro | 小丑牌 |[网页代码压缩包](https://archive.org/download/balatro-web/) |
 | Bendy and the Ink Machine | 班迪与油印机 |[网页代码压缩包](https://archive.org/download/bendy-and-the-ink-machine_202606/) |
+| BLACK | 黑煞 |[网页代码压缩包](https://archive.org/download/black-wasm/) |
 | Brotato |土豆兄弟 |[网页代码压缩包](https://archive.org/download/brotatodlc-main/) |
 | Call of Duty 4: Modern Warfare | 使命召唤4：现代战争 |[网页代码压缩包](https://archive.org/download/cod-4_202609/) |
 | Call of Duty: Black Ops | 使命召唤：黑色行动 |[网页代码压缩包](https://archive.org/download/bo1z-wasm/) |
@@ -150,3 +151,4 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
+
