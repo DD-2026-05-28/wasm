@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：127
+- **已完成项目数量**：128
 - **未完成项目数量**：2
-- **完成度**：98.45%
+- **完成度**：98.46%
 
-## 更新日志：2026-11-18
+## 更新日志：2026-11-19
 
-- 添加《黑煞》
+- 添加《电影大亨：特技与特效》
   
 # 备份项目列表
 
@@ -141,6 +141,7 @@
 | Terraria | 泰拉瑞亚 |[网页代码压缩包](https://archive.org/download/terraria-wasm/) |
 | The Legend of Zelda: The Wind Waker | 塞尔达传说：风之杖 |[网页代码压缩包](https://archive.org/download/wwhd-wasm/) |
 | The Legend of Zelda: Twilight Princess | 塞尔达传说：黄昏公主 |[网页代码压缩包](https://archive.org/download/dusklight-wasm/) |
+| The Movies Stunts & Effects | 电影大亨：特技与特效 |[网页代码压缩包](https://archive.org/download/the-movies-stunts-effects/) |
 | The Simpsons Hit & Run | 辛普森：横冲直撞 |[网页代码压缩包](https://archive.org/download/shar-wasm/) |
 | Unreal Championship 2 | 虚幻锦标赛2 |[网页代码压缩包](https://archive.org/download/uc2_20261102/) |
 | Unreal Tournament | 虚幻竞技场 |[网页代码压缩包](https://archive.org/download/ut-99-web/) |
@@ -151,4 +152,3 @@
 | World of Warcraft | 魔兽世界 |待我上传|
 
 - **托管贡献者名单**：@Lolendor、@恒、@AliYa-chen、@dos.zone、@wasm.rip
-
