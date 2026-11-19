@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：129
+- **已完成项目数量**：130
 - **未完成项目数量**：2
-- **完成度**：98.47%
+- **完成度**：98.48%
 
 ## 更新日志：2026-11-19
 
-- 添加《战地风云1942》
+- 添加《电影大亨：特技与特效》、《战地风云1942》、《枪神》
   
 # 备份项目列表
 
@@ -62,6 +62,7 @@
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
 | Grand Theft Auto: Vice City | 侠盗猎车手：罪恶都市 |[网页代码压缩包](https://archive.org/download/gta-vc-wasm-20261013/) |
 | GranTurismo 4 | GT赛车4 |[网页代码压缩包](https://archive.org/download/gran-turismo-4_202610/) |
+| GunZ：The Duel | 枪神 |[网页代码压缩包](https://archive.org/download/gunz-wasm/) |
 | Half-Life | 半条命 |[网页代码压缩包](https://archive.org/download/webXash/) |
 | Half-Life 2 | 半条命2 |[网页代码压缩包](https://archive.org/download/hl2_20260626/) |
 | Halo: Campaign Evolved | 光环：战役进化 |[网页代码压缩包](https://archive.org/download/halo-wasm/) |
