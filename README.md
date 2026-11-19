@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：128
+- **已完成项目数量**：129
 - **未完成项目数量**：2
-- **完成度**：98.46%
+- **完成度**：98.47%
 
 ## 更新日志：2026-11-19
 
-- 添加《电影大亨：特技与特效》
+- 添加《战地风云1942》
   
 # 备份项目列表
 
@@ -26,6 +26,7 @@
 | Animal Crossing | 动物森友会 |[网页代码压缩包](https://archive.org/download/animal-crossing-wasm/) |
 | Arx Fatalis | 地城英雄志 |[网页代码压缩包](https://archive.org/download/arx-fatalis_202606/) |
 | Balatro | 小丑牌 |[网页代码压缩包](https://archive.org/download/balatro-web/) |
+| Battlefield 1942 | 战地风云1942 |[网页代码压缩包](https://archive.org/download/bf1942_202611/) |
 | Bendy and the Ink Machine | 班迪与油印机 |[网页代码压缩包](https://archive.org/download/bendy-and-the-ink-machine_202606/) |
 | BLACK | 黑煞 |[网页代码压缩包](https://archive.org/download/black-wasm/) |
 | Brotato |土豆兄弟 |[网页代码压缩包](https://archive.org/download/brotatodlc-main/) |
