@@ -56,7 +56,7 @@
 | God of War: Chains of Olympus | 战神：奥林匹斯之链 |[网页代码压缩包](https://archive.org/download/god-of-war_202610/) |
 | God of War: Ghost of Sparta | 战神：斯巴达之魂 |[网页代码压缩包](https://archive.org/download/god-of-war-ghost-of-sparta_202610/) |
 | God of War 2 | 战神2 |[网页代码压缩包](https://archive.org/download/god-of-war-2_202610/) |
-| Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20260924/) |
+| Grand Theft Auto 3 | 侠盗猎车手3 |[网页代码压缩包](https://archive.org/download/gta3-wasm-20261120/) |
 | Grand Theft Auto 4 | 侠盗猎车手4 |[网页代码压缩包](https://archive.org/download/gta4-web-v0.1.8/) |
 | Grand Theft Auto: 5 | 侠盗猎车手5 |[网页代码压缩包](https://archive.org/download/gta5-wasm/) |
 | Grand Theft Auto: San Andreas | 侠盗猎车手：圣安地列斯 |待我上传|
