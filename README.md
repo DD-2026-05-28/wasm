@@ -8,13 +8,13 @@
 
 ## 项目完成情况
 
-- **已完成项目数量**：130
+- **已完成项目数量**：131
 - **未完成项目数量**：2
-- **完成度**：98.48%
+- **完成度**：98.50%
 
-## 更新日志：2026-11-19
+## 更新日志：2026-11-20
 
-- 添加《电影大亨：特技与特效》、《战地风云1942》、《枪神》
+- 添加《秘密潜入》
   
 # 备份项目列表
 
@@ -106,6 +106,7 @@
 | Plague Inc. | 瘟疫公司 |[网页代码压缩包](https://archive.org/download/plague-inc_202606/) |
 | Plants vs. Zombies | 植物大战僵尸 |[网页代码压缩包](https://archive.org/download/pvz-wasm/) |
 | Pro Evolution Soccer 6 | 实况足球6 |[网页代码压缩包](https://archive.org/download/pes-6-wasm/) |
+| Project I.G.I.: I'm Going In | 秘密潜入 |[网页代码压缩包](https://archive.org/download/project-igi_20261120/) |
 | Pokémon XD: Gale of Darkness | 宝可梦 XD：暗之旋风 |[网页代码压缩包](https://archive.org/download/pxdgod/) |
 | Poly Bridge | 保利桥 |[网页代码压缩包](https://archive.org/download/poly-bridge-web/) |
 | Portal | 传送门 |[网页代码压缩包](https://archive.org/download/portal_202607/) |
